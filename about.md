@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alvaroner
+title: About
 permalink: /about/
 ---
 
